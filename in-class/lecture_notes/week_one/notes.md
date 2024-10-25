@@ -1,4 +1,5 @@
 #### Lecture One Slides Notes
+Rough notes..But I have an obsidian foder:)
 <!-- ##### Difference between probability and statistics
 
 Probability -->
@@ -10,3 +11,31 @@ flipping a coin
 rolling a dine
 surbeying people about their favorite color
 observing the weather
+
+**Sample space**
+the set of all possible outcomes in an experiment, denoted by the symbol S.
+Sample space for flipping a coin:
+S = {heads, tails}
+Sample space for rolling a dice
+S = { 1,2,3,4,5,6}
+
+**Event**
+An event is a set of outcomes 
+For example:
+- getting a "heads" when you flip a coin is an event 
+- rolling an even number on a die is an event
+- predicting the chance of rain tomorrow is an event. I guess here the sample space would be rain or sunshine. 
+
+Probaility is a measure if likelihood that an event will occur. It is a number between 0 and 1, inclusive. 
+- a probability of 0 menas the event is impossible. 
+- a probablity of 1 menas the event is certain
+- a probability between 0 an 1 indicates the event's likelihood lies somewhere in between. 
+Negative probability? Can the probability be more than 1? Why or why not?
+
+P(E) - probability of an event
+
+So, if a two sided coin is flipped, using the P(E) formula:
+
+The sample space is: S = {heads, tails}
+The event we are looking for is heads; therefore, the probability of heads is 1/2 or 0.5 which is 50%. 
+The P(heads) = 0.5.
