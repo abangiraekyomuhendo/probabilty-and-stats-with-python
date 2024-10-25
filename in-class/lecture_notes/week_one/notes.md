@@ -63,3 +63,10 @@ P(E)
 Assignment
 Using the dataset diamonds_new.xlsx, let's figure out the probability of premium diamond. 
 What is the probability of having a "J" colored diamond?
+
+
+**TYPES OF PROBABILITY**
+1. Conditional Probability
+- the probability of something happening given that we have some additional information that may influence the outcome. 
+Bayes theorem 
+P(A|B) = P(B|A) * P(A) / P(B)
