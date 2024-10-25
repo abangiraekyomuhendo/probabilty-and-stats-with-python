@@ -34,8 +34,32 @@ Negative probability? Can the probability be more than 1? Why or why not?
 
 P(E) - probability of an event
 
+*Example one*
 So, if a two sided coin is flipped, using the P(E) formula:
 
 The sample space is: S = {heads, tails}
 The event we are looking for is heads; therefore, the probability of heads is 1/2 or 0.5 which is 50%. 
 The P(heads) = 0.5.
+
+*Example two*
+
+P(E) - probability of an event 
+Tossing a die
+If a fair 6 face die is tossed, using the P(E) formula:
+We want to see the probability of getting an odd number. 
+
+S = {1,2,3,4,5,6}
+Event = {1,3,5}
+These are three out of the 6 in the sample space. 
+Therefore
+P(odd-number) = 3/6 = 0.5 = 50%
+
+
+Conclusion
+P(E)
+- number of outcomes (events) divided by total number of outcomes or sample space. 
+
+
+Assignment
+Using the dataset diamonds_new.xlsx, let's figure out the probability of premium diamond. 
+What is the probability of having a "J" colored diamond?
