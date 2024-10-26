@@ -10,6 +10,7 @@ Range = max-min
 - The average of the squared differences between each data pount and and the meanIt gives a sense of how spread out the data points are. 
 3. Standard Deviation 
 4. IQR
+- the spread of the data
 B. Inferential
 - involves making predictions or inferences about a population based on a sample of data. It includes hypothesis testing confidence intervals, regression analysis, ANOVA and more
 
